@@ -1,0 +1,9 @@
+{
+    "ligar": [
+        "luz",
+        "porta"
+    ],
+    "desligar": [
+        "luz"
+    ]
+}
